@@ -6147,13 +6147,13 @@
 				},
 				{
 					"abbreviation": "ECU",
-					"prestige": "30",
+					"prestige": "100",
 					"hexColor": "#592A8A",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
 						"age": "39",
-						"cumulativePrestige": "0",
+						"cumulativePrestige": "95,
 						"homeState": "California",
 						"ratPot": "64",
 						"hometown": "Orcutt",
@@ -6166,7 +6166,7 @@
 					"defCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
-						"age": "47",
+						"age": "32
 						"cumulativePrestige": "0",
 						"homeState": "New Jersey",
 						"ratPot": "98",
