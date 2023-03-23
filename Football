@@ -6147,7 +6147,7 @@
 				},
 				{
 					"abbreviation": "ECU",
-					"prestige": "100",
+					"prestige": "95",
 					"hexColor": "#592A8A",
 					"offCoordinator": {
 						"contractLength": "3",
